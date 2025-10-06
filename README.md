@@ -1,1 +1,1 @@
-Pierwszy commit - Julia Witt - 24.09.2025
+Pierwszy commit - 24.09.2025
